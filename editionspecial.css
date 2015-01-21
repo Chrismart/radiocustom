@@ -1,0 +1,52 @@
+/* Not Edit This Part
+ * radiocustom.css Version 1.1 Style: Edition Special
+ * https://github.com/chrismart
+ *
+ * Copyright 2015 - 2017, Chrismart Andrade Jimenez <---- Chrismart Anji
+ * Licensed Under The MIT License
+ * Modified and Improved By Chrismart Andrade Jimenez
+ * Use This Code CSS For Trasform The Style Of The Radio Inputs And Type Checkbox 
+ *
+ * The MIT License (MIT)
+
+ * Copyright (c) 2015 Chrismart Anji
+
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+  
+.disabled1, .custom-checkbox { clip: rect(1px 1px 1px 1px);     clip: rect(1px, 1px, 1px, 1px);     position: absolute; }.disabled1 + label, .custom-
+checkbox + label {   position: relative;   padding-left: 16px; }.disabled1 + label:before, .custom-checkbox + label:before {     content: "";     display: inline
+-block;     -moz-box-sizing: border-box;     -webkit-box-sizing: border-box;     box-sizing: border-box;     font-family: Helvetica Neue, Helvetica, Arial, 
+sans-serif;     font-weight: bold;     font-size: 10px;     width: 13px;     height: 13px;     line-height: 11px;     text-align: center;     position: absolute;     
+left: 0;     top: 50%;     margin-top: -6.5px;     background: white;     background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, 
+#ffffff), color-stop(100%, #dddddd));     background-image: -webkit-linear-gradient(#ffffff, #dddddd);     background-image: -moz-linear-gradient(#ffffff, 
+#dddddd);     background-image: -o-linear-gradient(#ffffff, #dddddd);     background-image: linear-gradient(#ffffff, #dddddd);     zoom: 1;     filter: 
+progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#dddddd);     -ms-filter: "progid:DXImageTransform.Microsoft.gradient
+(startColorstr='#ffffff', endColorstr='#dddddd')";     -webkit-border-radius: 3px;     -moz-border-radius: 3px;     -ms-border-radius: 3px;     -o-border-radius: 
+3px;     border-radius: 3px;     border: 1px solid #aaa; }.disabled1 + label:hover:before, .custom-checkbox + label:hover:before {     background: #fafafa; 
+}.disabled1 + label:active:before, .custom-checkbox + label:active:before {     background: #f2f2f2;     background-image: -webkit-gradient(linear, 50% 
+0%, 50% 100%, color-stop(0%, #dddddd), color-stop(100%, #ffffff));     background-image: -webkit-linear-gradient(#dddddd, #ffffff);     background-image: 
+-moz-linear-gradient(#dddddd, #ffffff);     background-image: -o-linear-gradient(#dddddd, #ffffff);     background-image: linear-gradient(#dddddd, #ffffff);     
+zoom: 1;     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#dddddd, endColorstr=#ffffff);     -ms-filter: 
+"progid:DXImageTransform.Microsoft.gradient(startColorstr='#dddddd', endColorstr='#ffffff')"; }.disabled1 + label:before {     -webkit-border-radius: 50%;     
+-moz-border-radius: 50%;     -ms-border-radius: 50%;     -o-border-radius: 50%;     border-radius: 50%; }.disabled1:checked + label:before {     
+background: 444;  }.disabled1:focus + label:before, .custom-checkbox:focus + label:before {     outline: 1px dotted; }.disabled1:checked + label:before {   
+  content: url("http://sia1.subirimagenes.net/img/2015/01/21/150121054138531755.png"); }.custom-checkbox:checked + label:before {     content: "X"; }  
+@media \0screen\,screen\9 {  .disabled1,     .custom-checkbox { clip: auto;   position: static;}.disabled + label, .custom-checkbox + label {padding-left: 
+0;}.disabled1 + label:before,     .custom-checkbox + label:before {display: none;}
