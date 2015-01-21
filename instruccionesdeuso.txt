@@ -1,0 +1,99 @@
+Lenguaje: Spanish:
+1. Modo De Uso De Este Codigo:
+
+Ponga Ya Sea En El Head De Esta Forma: <link rel="stylesheet" href="aqui la url de tu archivo css q descagastes de este lugar ejemplo: radiocustom/dark.css" type="text/css" />
+o De Esta Forma
+<style type="text/css">
+aqui lo que hay dentro del los archivos css o lo que hay en el demodark.html
+</style>
+Los Dos Tienen Que Ir En El Head Ya Sea Cualquiera De Los Que Haigas Elegido
+Ahora En El Body Para Que Funcione En Los Radio y Cambie De Color etc:
+
+<input class="nombre de tu class q le haigas puesto o como en archivo css q pusimos disabled1" id="se repite lo mismo q en class disabled1" type="radio">
+<label for="aqui lo mismo q en el class y el id esto para que funcione correctamente disabled1"></label>
+
+Eso Es Todo Dejamos Dos Tipos De Modelos a Escojer Ya Sea El Estilo Oscuro: Dark o El Edition Special Que Antes De Un Circulo De Color, Es Una Palomita Ver Las Funciones Probando El Codigo,
+
+Por Favor No Modificar Esta Parte:
+
+/* Not Edit This Part
+ * radiocustom.css Version 1.1 Style: Edition Special
+ * https://github.com/chrismart
+ *
+ * Copyright 2015 - 2017, Chrismart Andrade Jimenez <---- Chrismart Anji
+ * Licensed Under The MIT License
+ * Modified and Improved By Chrismart Andrade Jimenez
+ * Use This Code CSS For Trasform The Style Of The Radio Inputs And Type Checkbox 
+ *
+ * The MIT License (MIT)
+
+ * Copyright (c) 2015 Chrismart Anji
+
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+ 
+ Language: English. Sorry for my poor English translation
+ 1. How to use this code:
+
+Be Put Ya In The Head Of This Form: <link rel="stylesheet" href="here the url of your css file that this place download example: radiocustom/dark.css" type="text/css" />
+or This Way
+<style type="text/css">
+Here's what's inside the css files or what is in the demodark.html
+</style>
+The Two Have To Go On Ya Head Sea Any Of Those Who Voted Haigas
+Now In The Body To It Work On The Radio and Change Color etc:
+
+<input class="name of your class or put it haigas q and q put disabled1 css file" id="the same is repeated q in class disabled" type="radio">
+<label for="here the same q in the class and id this to work properly disabled1"></label>
+
+That's All We left Two Types Of Models Choosing The Dark Sea Ya Style: Dark or Special Edition Before A Circle Of Color, Is A flies See Functions Testing the Code,
+
+Please Do not Change This Part:
+
+/* Not Edit This Part
+ * radiocustom.css Version 1.1 Style: Edition Special
+ * https://github.com/chrismart
+ *
+ * Copyright 2015 - 2017, Chrismart Andrade Jimenez <---- Chrismart Anji
+ * Licensed Under The MIT License
+ * Modified and Improved By Chrismart Andrade Jimenez
+ * Use This Code CSS For Trasform The Style Of The Radio Inputs And Type Checkbox 
+ *
+ * The MIT License (MIT)
+
+ * Copyright (c) 2015 Chrismart Anji
+
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
